@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/etpace/src/quantcup'
+let g:netrw_dirhist_2='/home/etpace/.vim'
+let g:netrw_dirhist_3='/home/etpace/.vim/plugin'
+let g:netrw_dirhist_4='/home/etpace/src/etpace.github.com/css'
+let g:netrw_dirhist_5='/home/etpace/src/p2c/tests'

@@ -1,0 +1,4 @@
+
+xmonad.hs:4:7:
+    Could not find module `XMonad.Config.Gnome':
+      Use -v to see a list of the files searched for.

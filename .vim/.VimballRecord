@@ -1,0 +1,2 @@
+haskellmode-20101118.vba: call delete('/home/etpace/.vim/compiler/ghc.vim')|call delete('/home/etpace/.vim/ftplugin/haskell.vim')|call delete('/home/etpace/.vim/ftplugin/haskell_doc.vim')|call delete('/home/etpace/.vim/ftplugin/haskell_hpaste.vim')|call delete('/home/etpace/.vim/autoload/haskellmode.vim')|call delete('/home/etpace/.vim/doc/haskellmode.txt')
+markdown-1.2.2.vba: call delete('/home/etpace/.vim/ftdetect/markdown.vim')|call delete('/home/etpace/.vim/snippets/markdown.snippets')|call delete('/home/etpace/.vim/syntax/markdown.vim')
