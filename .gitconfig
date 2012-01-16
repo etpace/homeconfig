@@ -1,0 +1,15 @@
+[user]
+	name = Elliott Pace
+	email = etp20@cam.ac.uk
+[alias]
+        lol = log --graph --decorate --pretty=oneline --abbrev-commit
+        lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+        st = status -uno -s
+[color]
+        branch = auto
+        diff = auto
+        interactive = auto
+        status = auto
+[github]
+	user = etpace
+	token = f68a1d3f7e0111cf29e8ed747a3e4456
